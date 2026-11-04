@@ -1,0 +1,27 @@
+## Interface: 120007, 120100, 120105
+## Title: SaltyM+Helper
+## Notes: Tracks your party's key cooldowns (interrupts, defensives, brez, Lust) for Mythic+. Attaches to nameplates or party frames, auto-syncs with other users, works with BigWigs, EllesmereUI and the KiraUI plugin.
+## Author: Salty
+## Version: 1.11.0
+## IconTexture: Interface\AddOns\SaltyMPlusHelper\Media\logo.tga
+## AddonCompartmentFunc: SaltyMPlusHelper_OnAddonCompartmentClick
+## AddonCompartmentFuncOnEnter: SaltyMPlusHelper_OnAddonCompartmentEnter
+## AddonCompartmentFuncOnLeave: SaltyMPlusHelper_OnAddonCompartmentLeave
+## OptionalDeps: BigWigs, EllesmereUI, ElvUI, Cell, Grid2, KiraUI-Plugin, MythicDungeonTools
+## SavedVariables: SaltyMPlusHelperDB
+## SavedVariablesPerCharacter: SaltyMPlusHelperCharDB
+
+Spells.lua
+Core.lua
+Changelog.lua
+Integrations.lua
+Display.lua
+Sounds.lua
+CCTracker.lua
+MythicPlus.lua
+MythicPlusExtras.lua
+KeyList.lua
+Alerts.lua
+MDTLink.lua
+Profiles.lua
+UI.lua
