@@ -1,0 +1,1 @@
+This is a bastard addon creation of like 10 different addons. It's designed specifically for personal and internal use of friends and the Guys He Bloodlusted M+ Keyteam on world of warcraft. Some AI some real code. xd
